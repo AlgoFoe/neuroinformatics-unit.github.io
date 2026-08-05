@@ -81,7 +81,7 @@ See the [software prerequisites](https://animals-in-motion.neuroinformatics.dev/
 If you're new to Python, we recommend signing up for our [asynchronous preparatory course](target-preparatory-month), which runs during the month leading up to the summer school.
 
 ### Data
-We will provide some example datasets for you to use during the workshop—see the [data prerequisites](https://animals-in-motion.neuroinformatics.dev/dev/prerequisites.html#data-prerequisites) section of the course handbook for details.
+We will provide some example datasets for you to use during the workshop—see the [data prerequisites](https://animals-in-motion.neuroinformatics.dev/dev/prerequisites.html) section of the course handbook for details.
 You will be asked to download these prior to the event.
 In addition, we encourage you to bring your own data.
 This could include video recordings of animal behaviour and/or motion tracks you've already generated.
