@@ -50,7 +50,7 @@ The final two days are dedicated to collaboration. We will join forces with part
     * *Make a contribution:* submit a pull request to an open-source repository.
     * *Collaborative writing:* draft a white paper, blog post, or documentation together.
     * *Prototype an idea:* experiment with a new analysis or method.
-* **Presentation:** teams will have the opportunity to share their progress and outcomes on the final 2pm-5pm.
+* **Presentation:** teams will have the opportunity to share their progress and outcomes on the final afternoon.
 
 
 ::: {admonition} Course handbook
