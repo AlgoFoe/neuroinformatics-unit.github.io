@@ -4,7 +4,7 @@
 :location: India
 :category: Blog
 :language: English
-:image: [3]
+:image: 3
 
 
 # GSoC 2026: Miscellaneous maintenance work on BrainGlobe overall infrastructure
